@@ -1,4 +1,58 @@
-body{
-    background-color: black;
-    color: white;
+ body{
+    background-color: pink;    
 }
+
+.NevBar{
+    display: flex;
+    align-items: flex-start;
+    background-color: whitesmoke;
+    width: 120px;
+    height: 500px;
+    margin: 40px 0px 0px 30px;
+    border-radius: 10px;
+}
+
+.menu{
+    background-color:blueviolet;
+}
+
+.MenuImg{
+    width: 40px;
+    height: 30px;
+    margin: 00px 0px 20px 0px;
+}
+
+.profileImg{
+    margin-top: 50px;
+}
+
+.downloadImg{
+    margin-top: 60px;
+}
+
+.MainDiv{
+    display: flex;
+}
+
+.MyImg{
+    width: 400px;
+    height: 570px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 16px #7777;
+    
+}
+
+/*
+.NevBar{
+    width: 80px;
+    background-color: white;   
+}
+
+
+.BoxContent{
+    width: 900px;
+    background-color: white;   
+
+}
+
+ */
