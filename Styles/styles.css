@@ -1,58 +1,94 @@
  body{
-    background-color: pink;    
+    background-color: pink;   
+    
+
 }
 
-.NevBar{
-    display: flex;
-    align-items: flex-start;
-    background-color: whitesmoke;
-    width: 120px;
-    height: 500px;
-    margin: 40px 0px 0px 30px;
-    border-radius: 10px;
-}
-
-.menu{
-    background-color:blueviolet;
-}
-
-.MenuImg{
-    width: 40px;
-    height: 30px;
-    margin: 00px 0px 20px 0px;
-}
-
-.profileImg{
-    margin-top: 50px;
-}
-
-.downloadImg{
-    margin-top: 60px;
+.fontStyle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: italic;
+    text-align: justify;
 }
 
 .MainDiv{
     display: flex;
 }
+.NevBar{
+    width: 80px;
+    height: 500px;
+    margin: 40px 0px 0px 30px;
+    background-color: white;   
+}
+/* .NevBar{
+    background-color: whitesmoke;
+    width: 120px;
+    height: 500px;
+    
+} */
 
-.MyImg{
+ .BoxImg
+{    
+    box-shadow: 5px 5px 5px 16px #7777;
+} 
+
+.BoxContent
+{
+    width: 750px;
+    height: 500px;
+    margin: 40px 0px 0px 0px;
+    background-color: white;  
+    box-shadow:inset 5px 0px 5px 0px #7777;
+}
+ 
+
+ .MenuImg{
+    width: 45px;
+    height: 30px;
+    margin: 8px 0px 20px 20px;
+} 
+ .MyImg{
     width: 400px;
     height: 570px;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px 16px #7777;
+    box-shadow: 5px 5px 5px 5 px #7777;
     
+} 
+
+.profileImg{
+    margin-top: 40px;
 }
 
-/*
-.NevBar{
-    width: 80px;
-    background-color: white;   
+.downloadImg{
+    margin-top: 50px;
 }
 
+.Discription{
+    padding: 20px;
+}
+/* 
+hr{
+    margin-top: 40px;
+} */
 
-.BoxContent{
-    width: 900px;
-    background-color: white;   
-
+.Services{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
- */
+.ServicesList1
+{
+    width: 500px;
+    margin-right: 80px;
+}
+
+.ServicesList2
+{
+    width: 500px;
+}
+
+h1, h2 {
+    font-style: italic;
+}
