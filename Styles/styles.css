@@ -20,13 +20,11 @@
     margin: 40px 0px 0px 30px;
     background-color: white;   
 }
-/* .NevBar{
-    background-color: whitesmoke;
-    width: 120px;
-    height: 500px;
-    
-} */
 
+.Menu{
+    width: 100%;
+    background-color:darkorchid;
+}
  .BoxImg
 {    
     box-shadow: 5px 5px 5px 16px #7777;
@@ -49,8 +47,7 @@
 } 
  .MyImg{
     width: 400px;
-    height: 570px;
-    border-radius: 10px;
+    height: 565px;
     box-shadow: 5px 5px 5px 5 px #7777;
     
 } 
@@ -91,4 +88,11 @@ hr{
 
 h1, h2 {
     font-style: italic;
+}
+
+.Title{
+    text-align: center;
+    font-style: italic;
+    margin-top: -160px;
+    /* margin: -150px 0px 0px 50px; */
 }
