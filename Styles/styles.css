@@ -17,7 +17,7 @@
 .NevBar{
     width: 80px;
     height: 500px;
-    margin: 40px 0px 0px 20px;
+    margin: 40px 0px 0px 25px;
     background-color: white;   
 }
 
@@ -43,7 +43,7 @@
  .MenuImg{
     width: 45px;
     height: 30px;
-    margin: 8px 0px 20px 20px;
+    margin: 8px 0px 20px 40px;
 } 
  .MyImg{
     width: 400px;
