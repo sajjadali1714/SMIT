@@ -6,7 +6,7 @@
 
 .fontStyle{
     font-family: 'Times New Roman', Times, serif;
-    font-size: x-large;
+    font-size: large;
     font-style: italic;
     text-align: justify;
 }
@@ -65,7 +65,7 @@
 }
 /* 
 hr{
-    margin-top: 30px;
+    margin-top: 20px;
 } */
 
 .Services{
