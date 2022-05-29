@@ -6,7 +6,7 @@
 
 .fontStyle{
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: 24px;
     font-style: italic;
     text-align: justify;
 }
@@ -43,7 +43,7 @@
  .MenuImg{
     width: 45px;
     height: 30px;
-    margin: 8px 0px 20px 30px;
+    margin: 8px 20px 20px 30px;
 } 
  .MyImg{
     width: 400px;
