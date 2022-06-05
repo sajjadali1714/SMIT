@@ -1,4 +1,97 @@
-body{
-    background-color: black;
-    color: white;
+ body{
+    background-color: pink;   
+    
+
+}
+
+.fontStyle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic;
+    text-align: justify;
+}
+
+.MainDiv{
+    display: flex;
+}
+.NevBar{
+    width: 80px;
+    height: 500px;
+    margin: 40px 0px 0px 10px;
+    background-color: white;   
+}
+
+.Menu{
+    width: 100%;
+    background-color:darkorchid;
+}
+ .BoxImg
+{    
+    box-shadow: 5px 5px 5px 16px #7777;
+} 
+
+.BoxContent
+{
+    width: 750px;
+    height: 500px;
+    margin: 40px 0px 0px 0px;
+    background-color: white;  
+    box-shadow:inset 5px 0px 5px 0px #7777;
+}
+ 
+
+ .MenuImg{
+    width: 45px;
+    height: 30px;
+    margin: 8px 20px 20px 30px;
+} 
+ .MyImg{
+    width: 400px;
+    height: 565px;
+    box-shadow: 5px 5px 5px 5 px #7777;
+    
+} 
+
+.profileImg{
+    margin-top: 40px;
+}
+
+.downloadImg{
+    margin-top: 50px;
+}
+
+.Discription{
+    padding: 10px 20px 5px 20px;
+}
+/* 
+hr{
+    margin-top: 20px;
+} */
+
+.Services{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ServicesList1
+{
+    width: 500px;
+    margin-right: 80px;
+}
+
+.ServicesList2
+{
+    width: 500px;
+}
+
+h1, h2 {
+    font-style: italic;
+}
+
+.Title{
+    text-align: center;
+    font-style: italic;
+    margin-top: -160px;
 }
